@@ -14,9 +14,10 @@ Me chamo Jadielson, atualmente sou estudante de ciência da computação. Trabal
 </a>
 
 <br>
+<br>
 
 ### Tecnologias
-<p>
+<p align="Left">
 <img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
 <img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
@@ -27,7 +28,7 @@ Me chamo Jadielson, atualmente sou estudante de ciência da computação. Trabal
 <br>
 
 ### Ferramentas
-<p>
+<p align="Left">
 <img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://img.icons8.com/color/452/microsoft-sql-server.png"/>
 <img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
