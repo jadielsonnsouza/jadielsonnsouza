@@ -1,4 +1,44 @@
-### Hi there 👋
+### Sobre mim
+
+<p>
+Me chamo Jadielson, atualmente sou estudante de ciência da computação. Trabalho como análista técnico, estou em busca da transição de carreira, quero me tornar dev. Sou apaixonado pelo aprendizado, onde essa paixão se encontra na tecnologia. Possuo muita curiosidade em conhecer o funcionamento de diversos sistemas. Pretendo me tornar um dev Full Stack, pois prezo muito o conhecimento de Front e Back End.
+</p>
+
+### Meus contatos
+<a href="https://www.linkedin.com/in/jadielsonnunessouza/" target="_blank">
+<img align="center" alt="jadielson-linkedin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
+</a>
+
+<a href="https://www.instagram.com/jadielsonnsouza1987/" target="_blank">
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"/>
+</a>
+
+<br>
+
+### Tecnologias
+<p>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"/>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+</P>
+
+<br>
+
+### Ferramentas
+<p>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://img.icons8.com/color/452/microsoft-sql-server.png"/>
+<img align="center" alt="jadielson-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+</P>
+  
+<p align="center">
+<br>
+Obrigado por visitar meu GITHUB. Qualquer sugestão, dúvidas ou propostas, basta me chamar nas redes sociais listadas acima.<br>
+Este perfil se encontra sempre atualizado.
+<br>
+</p>
 
 <!--
 **jadielsonnsouza/jadielsonnsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
