@@ -1,10 +1,15 @@
-<h1 align="center">GitHub Jadielson Souza</h1>
+<h2 align="center">Eu sou Jadielson N. Souza</h2>
+<p align="center"><b>Desenvolvedor Full Stack em formação</b></p>  
 
 <h3>Sobre mim</h3>
 
-<p>
-  Me chamo Jadielson, atualmente sou estudante de ciência da computação. Trabalho como análista técnico, estou em busca da transição de carreira, quero me tornar dev. Sou  apaixonado pelo aprendizado, onde essa paixão se encontra na tecnologia. Possuo muita curiosidade em conhecer o funcionamento de diversos sistemas. Pretendo me tornar um dev Full Stack, pois prezo muito o conhecimento de Front e Back End.
-</p>
+
+  - Atualmente sou estudante de ciência da computação;
+  - Trabalho como análista técnico, estou em busca de oportunidades em desenvolvimento e conquistar novos conhecimentos práticos, especialmente relacionado a ser Full Stack;
+  - Sou apaixonado pelo aprendizado, onde essa paixão estão relacionadas e se encontram na tecnologia, na neuropsicologia, pois entendendo o comportamento humano podemos tirar melhor proveito do aprendizado;
+  - Possuo muita curiosidade em conhecer o funcionamento de diversos sistemas;
+  - Pretendo me tornar um dev Full Stack, pois prezo muito o conhecimento de Front e Back End;
+
 
 <div>
 <h3>Meus contatos</h3>
