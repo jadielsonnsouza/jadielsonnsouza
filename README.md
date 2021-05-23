@@ -19,9 +19,9 @@
 
 <div align="left">
   <h3>Meus contatos</h3>
-    <a href="https://www.linkedin.com/in/jadielsonnunessouza/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"></a>
-    <a href="https://www.instagram.com/jadielsonnsouza1987/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" height="40" width="40"></a>
-    <a href="mailto:jadielsonnsouza@gmail.com" target="blank"><img src="https://www.pngrepo.com/png/303161/180/gmail-icon-logo.png" alt="gmail" height="40" width="40"></a>
+    <a href="https://www.linkedin.com/in/jadielsonnunessouza/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"></a>
+    <a href="https://www.instagram.com/jadielsonnsouza1987/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" alt="Instagram" height="40" width="40"></a>
+    <a href="mailto:jadielsonnsouza@gmail.com" target="_blank"><img src="https://www.pngrepo.com/png/303161/180/gmail-icon-logo.png" alt="gmail" height="40" width="40"></a>
 </div>
 
 <hr>
