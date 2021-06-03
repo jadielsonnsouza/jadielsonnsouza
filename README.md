@@ -53,9 +53,10 @@
 <hr>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadielsonnsouza&layout=compact&langs_count=8&theme=tokyonight" alt="Jadielson-N-Souza"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jadielsonnsouza&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Jadielson-N-Souza"/>
 
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jadielsonnsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jadielsonnsouza&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+
 </div>
 
 <hr><br>
